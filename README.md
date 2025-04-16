@@ -1,10 +1,10 @@
-LeetCode Problems
-This repository contains solutions to LeetCode problems, organized by difficulty:
+<br>LeetCode Problems</br>
+<br>This repository contains solutions to LeetCode problems, organized by difficulty:</br>
 
-Easy
-Medium
-Hard
-Each folder contains:
+<br>Easy</br>
+<br>Medium</br>
+<br>Hard</br>
+<br>Each folder contains:</br>
 
-A question.txt file with the problem statement.
-A solution.cpp file with the solution.
+<br>A question.txt file with the problem statement.</br>
+<br>A solution.cpp file with the solution.</br>
